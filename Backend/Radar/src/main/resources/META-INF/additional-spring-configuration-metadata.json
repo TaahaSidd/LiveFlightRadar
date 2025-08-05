@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "aviationstack.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'aviationstack.api.key'"
+  },
+  {
+    "name": "aviationstack.key.api",
+    "type": "java.lang.String",
+    "description": "A description for 'aviationstack.key.api'"
+  },
+  {
+    "name": "flightaware.key.api",
+    "type": "java.lang.String",
+    "description": "A description for 'flightaware.key.api'"
+  }
+]}
